@@ -1,0 +1,100 @@
+
+
+
+header {
+    background-color: #3BC1EF;
+    color: white;
+    
+}
+
+body{
+    background: url("../imagenes/paisaje.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.navegacion{
+    background-color: blue;
+}
+
+
+
+img{
+    margin: 20px;
+    margin-top: 20px;
+}
+
+p{
+    margin: 10px;
+    margin-top: 40px;
+    font-size: 40px;
+} 
+
+    
+  
+}
+
+#img1{
+    float: left;
+    margin: 5px;
+}
+
+#p1{
+    text-align: center;
+    padding: 10px;
+    margin: 2px;
+    font-size: 20px;
+}
+
+h4{
+    text-align: center;
+}
+
+
+
+#col{
+    
+    margin: 30px;
+    
+} 
+
+#bloque2{
+    background-color: #FEF5EA;
+     
+    padding: 12px;
+}
+
+#bloque3{
+    background-color: #FEF5EA;
+   
+    
+}
+
+#bloque4{
+    color:white;
+    background-color: #3BC1EF;
+    
+  
+}
+
+#bloque5{
+    background-color: white;
+    color: blue;
+}
+
+#bloque6{
+    margin-top: 15px;
+    
+    
+}
+
+.navegacion{
+    background-color: blue;
+}
+
+.img{
+    
+    margin-top: 15px;
+}
